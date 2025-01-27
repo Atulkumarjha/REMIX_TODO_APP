@@ -176,16 +176,16 @@ export default function Index() {
         <p className="text-sm text-center leading-loose dark:text-white">
           Built by{" "}
           <Link
-            to={"https://github.com/0xitsHimanshu"}
+            to={"https://github.com/Atulkumarjha"}
             target="_blank"
             rel="noopener noreferrer"
             className="relative font-medium text-blue-500 after:absolute after:-bottom-0.5 after:left-0 after:h-[1px] after:w-0 after:bg-blue-500 after:transition-all after:duration-300 hover:after:w-full dark:text-blue-500 dark:after:bg-blue-500"
           >
-            Himanshu
+            ATUL KUMAR JHA
           </Link>{" "}
           with ❤️. The source code is available on{" "}
           <Link
-            to={"https://github.com/0xitsHimanshu/remix-todo"}
+            to={"https://github.com/Atulkumarjha/REMIX_TODO_APP"}
             target="_blank"
             rel="noopener noreferrer"
             className="relative font-medium text-blue-500 after:absolute after:-bottom-0.5 after:left-0 after:h-[1px] after:w-0 after:bg-blue-500 after:transition-all after:duration-300 hover:after:w-full dark:text-blue-500 dark:after:bg-blue-500"
